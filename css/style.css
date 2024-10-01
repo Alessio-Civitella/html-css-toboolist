@@ -12,7 +12,8 @@
     margin-top: 10px;   
 }
 
-.header {
+.header-top {
+    padding-bottom: 80px;
 }
 
 .header-top img {
@@ -35,9 +36,142 @@
 /* /header */
 
 /* main */
+.main {
+    align-items: center;
+    margin: 0 auto;
+    width: 600px;  
+    max-width:  1000px;
+}
 
+.button1 {
+    border-color: white;
+    color: white;
+    background-color: #0089df;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 100px; 
+    height: 40px;
+    
+}
+
+.button2 {
+    background-color: white;
+    color:lightgray;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 125px; 
+    height: 40px;
+}
+.button {
+    padding-bottom: 25px;
+}
+
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    list-style-type: none;
+    padding-bottom: 20px;
+    
+}
+
+.list1 {
+    padding-bottom: 20px;
+}
+
+.list2 {
+    padding-bottom: 20px;
+}
+
+.list3 {
+    padding-bottom: 20px;
+}
+
+.check {
+    color: #00ff00;
+    background-color: white;
+    border: 1px solid; 
+    border-color: 00ff00;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    
+}
+
+.cross {
+    color: #ff0000;
+    background-color: white;
+    border: 1px solid; 
+    border-color: 00ff00;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.editorial {
+    color: #ffffff;
+    background-color: #0089df;
+    border: 6px solid; 
+    border-color: #0089df;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.Q1-Goals {
+    color: #ffffff;
+    background-color: #8401ac;
+    border: 6px solid; 
+    border-color: #8401ac;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.Recruiting {
+    color: #ffffff;
+    background-color: lightgreen;
+    border: 6px solid; 
+    border-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.Mobile {
+    color: #ffffff;
+    background-color: #bc8240;
+    border: 6px solid; 
+    border-color: #bc8240;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.Website {
+    color: #ffffff;
+    background-color: #be5793;
+    border: 6px solid; 
+    border-color: #be5793;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.Sales {
+    color: #ffffff;
+    background-color: #7cbe30;
+    border: 6px solid; 
+    border-color: #7cbe30;
+    width: 100px;
+    height: 100px;
+    font-size: small;
+    border-radius: 10px;
+}
 /* /main */
-
-/* footer */
-
-/* /footer */

@@ -1,5 +1,37 @@
-/* header */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
+/* header */
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin-left: 20px;
+    margin-top: 10px;   
+}
+
+.header {
+}
+
+.header-top img {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.header-top .logo-text {
+    vertical-align: middle;
+}
+
+.logo-text {
+    font-family: "Afacad Flux", sans-serif;
+  font-size: xx-large;
+  font-weight: 1000;
+  font-style: calc(40px);
+  font-variation-settings:
+    "slnt" 0;
+}
 /* /header */
 
 /* main */
